@@ -1,0 +1,4 @@
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="US: SMITHSONIAN WEST FHD" tvg-logo="" group-title="? US - DOCUMENTARY ?",US: SMITHSONIAN WEST FHD
+http://vipblue.live:8080/Andreasp/sDjQKx/239710
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="US: SMITHSONIAN EAST HD" tvg-logo="" group-title="? US - DOCUMENTARY ?",US: SMITHSONIAN EAST HD
+http://vipblue.live:8080/Andreasp/sDjQKx/239709
